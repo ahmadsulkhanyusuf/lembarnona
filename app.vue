@@ -23,7 +23,7 @@
         </div>
         <!-- Mobile Menu Icon (Simplified for one page) -->
         <div class="md:hidden">
-           <a href="https://wa.me/6285185950350" target="_blank" class="bg-brand-teal text-white p-2 rounded-lg">
+           <a href="https://wa.me/6285185950350" target="_blank" class="bg-brand-teal text-white w-10 h-10 rounded-xl flex items-center justify-center hover:bg-brand-teal/90 transition-colors">
              <Phone class="w-5 h-5" />
            </a>
         </div>
