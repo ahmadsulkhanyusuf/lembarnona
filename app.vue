@@ -223,7 +223,7 @@
                 </div>
                 <div>
                   <h4 class="font-black text-xl mb-1">Alamat Pengambilan</h4>
-                  <p class="text-slate-500 text-lg leading-relaxed">Jl. Gubernur Suryo VII/J-2 Jombang</p>
+                  <p class="text-slate-500 text-lg leading-relaxed">Jl. Gubernur Suryo Jombang</p>
                 </div>
               </div>
 
